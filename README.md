@@ -1,8 +1,8 @@
 ## Analysis of ATM Queuing Problem
 
-Download and read the **final paper**: [https://bit.ly/Paper-StochasticProcess](url) 
+Download and read the **final paper** in Academia: [https://bit.ly/Paper-StochasticProcess](url) 
 
-Watch the **presentation**: [bit.ly/Project-StochasticProcess](url)
+Watch the **presentation** in Youtube: [bit.ly/Project-StochasticProcess](url)
 
 
 
